@@ -3,7 +3,7 @@
 In this project, we focus on converting and resolving logical statements to identify contradictions within a knowledge base (KB). 
 
 <h2> Features </h2>
-- implications Elimination 
+- Implications Elimination 
 - Moving negations 
 - Variable Standardization
 - moving the quantifier to the left
