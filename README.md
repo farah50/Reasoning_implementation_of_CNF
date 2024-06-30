@@ -21,6 +21,7 @@ In this project, we focus on converting and resolving logical statements to iden
 </ol>
 
 <h3> contributors </h3>
-
+<p>
 Farah Mohamed
 Hesham Mahmoud
+</p>
