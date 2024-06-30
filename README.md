@@ -19,3 +19,8 @@ In this project, we focus on converting and resolving logical statements to iden
 <li>Ensure you have Python and the required libraries (nltk, sklearn, pandas, numpy, re) installed.</li>
 <li>This program may not work well with every knowledge base (KB). The effectiveness and correctness of the transformations depend on the specific structure and content of the KB.</li>
 </ol>
+
+<h3> contributors </h3>
+
+Farah Mohamed
+Hesham Mahmoud
