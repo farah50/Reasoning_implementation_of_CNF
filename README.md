@@ -5,7 +5,7 @@ eliminating implications,
 moving negations, 
 standardizing variables.
 moving the quantifier to the left,
-eliminate existential & universal
-Apply distribution
+eliminate existential & universal,
+Apply distribution,
 goal negotiation 
 
